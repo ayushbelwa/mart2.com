@@ -1,0 +1,57 @@
+body {
+    background-color: #f1f2f4 !important;
+}
+
+.wish1 {
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.rupee {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.rupee3 {
+    font-size: 1rem;
+    font-weight: bold;
+    color: grey;
+}
+
+.offer2 {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #006eff !important;
+}
+
+.input-filed {
+    width: 40px;
+    height: 40px;
+    background-color: #ffffff;
+    border: 1px solid rgb(52, 99, 255);
+    color: rgb(52, 99, 255) !important;
+    text-align: center;
+    border-radius: .25rem;
+}
+
+
+
+.inc,
+.dec {
+    width: 40px;
+    height: 40px;
+    background-color: #ffffff;
+    border: 1px solid rgb(52, 99, 255);
+    color: rgb(52, 99, 255);
+    text-align: center;
+    border-radius: .25rem;
+
+}
+
+.inc:hover,
+.dec:hover {
+    background-color: rgb(52, 99, 255);
+    border: 1px solid #fff;
+    color: #ffffff;
+}

@@ -1,0 +1,115 @@
+.brand-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+
+}
+
+.rupee1 {
+    font-size: 1.9rem;
+    font-weight: bold;
+}
+
+.rupee2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: gray !important;
+}
+
+.detail2 {
+    color: rgb(112, 112, 112) !important;
+}
+
+.star {
+    font-size: 1.5rem;
+    background-color: unset;
+    color: #006eff;
+    border: none;
+}
+
+.star:hover {
+    cursor: pointer;
+}
+
+.sur {
+    padding-bottom: 10px;
+}
+
+.small-image img {
+    height: 92px;
+    margin: 10px 20px;
+    cursor: pointer;
+    opacity: .6;
+}
+
+.small-image img:hover {
+    opacity: 1;
+}
+
+.spec {
+    font-size: 1.5rem;
+    font-weight: bold;
+
+}
+
+.feat {
+    font-size: 1.6rem;
+}
+
+.offer {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #006eff !important;
+}
+
+tbody {
+    border-bottom: 1px solid #dfdfdf;
+
+
+}
+
+.button {
+    background-color: black !important;
+    color: white;
+    border: none;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.rupee {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.rupee3 {
+    font-size: 1rem;
+    font-weight: bold;
+    color: grey;
+}
+
+.offer2 {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #006eff !important;
+}
+
+.img1 {
+    width: 315px;
+    height: 205px;
+
+}
+
+.bg {
+    background-color: #dbdbdb !important;
+}
+
+.sef {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    padding: 40px 60px 0;
+    -webkit-column-gap: 20px;
+    column-gap: 20px;
+}

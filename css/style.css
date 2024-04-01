@@ -1,0 +1,151 @@
+.mgs img {
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+    z-index: 0;
+
+}
+
+body {
+    background-color: #f1f2f4 !important;
+}
+
+.navbar {
+    background-color: rgb(197, 190, 165) !important;
+}
+
+.imr {
+    width: 250px;
+    height: 210px;
+    object-fit: cover;
+}
+
+.imr img {
+
+    width: 100px;
+    height: 100px;
+
+}
+
+.img2 {
+    width: 645px;
+    height: 1065.78px;
+    object-fit: cover;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 200,
+        'GRAD' 0,
+        'opsz' 24
+}
+
+
+.dropdown-toggle::after {
+    display: inline-block;
+    margin-left: 0.255em;
+    vertical-align: 0.255em;
+    content: "";
+    border: none !important;
+}
+
+.bg-primary {
+    --bs-bg-opacity: 1;
+    background-color: #5a4a36 !important;
+    font-size: 3px;
+    z-index: 0;
+    position: absolute;
+}
+
+.badge {
+    width: 10px;
+    height: 10px;
+}
+
+.img1 img {
+    width: 365px;
+    height: 365px;
+    object-fit: cover;
+}
+
+.text1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.text2 {
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.text3 {
+    font-size: 19px;
+    font-weight: normal;
+}
+
+.rounded-circle {
+    width: 25px;
+    height: 25px;
+    font-size: 15px;
+
+}
+
+.ems {
+    text-align: center;
+}
+
+
+.pwes {
+    width: 250px;
+    height: 250px;
+}
+
+.emr {
+    width: 100px;
+    height: 100px;
+}
+
+.rsp {
+    width: 80px;
+    height: 80px;
+}
+
+
+.button {
+    background-color: black !important;
+    color: white;
+    border: none;
+    text-align: center;
+}
+
+.button:hover {
+    background-color: rgb(58, 58, 58) !important;
+}
+
+.dropdown-menu {
+    z-index: 5000;
+}
+
+.dropdown-menu ul {
+    list-style: none;
+    z-index: 5;
+    position: absolute;
+
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    z-index: 5;
+}
+
+ul li a {
+    text-decoration: none;
+    font-size: 12px;
+    color: #ffff;
+}
+
+ul {
+    list-style: none;
+
+}
